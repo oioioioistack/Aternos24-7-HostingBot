@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "FLIP-9trn.aternos.me",
+    "port":48422,
     "version": "",
     "try-creative": false
   },
